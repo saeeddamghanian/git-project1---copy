@@ -15,3 +15,8 @@ header {
 footer {
     background-color: blue;
 }
+
+pre {
+    font-weight: bold;
+    font-size: 25px;
+}
