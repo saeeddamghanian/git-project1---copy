@@ -1,22 +1,17 @@
-h1 {
-    font-size: 25px;
-    color: blueviolet;
-    background-color: aquamarine;
-}
-
-header {
-    background-color: brown;
-}
-
-.slider {
-    background-color: chartreuse;
-}
-
-footer {
-    background-color: blue;
-}
-
-pre {
-    font-weight: bold;
-    font-size: 25px;
-}
+    h1 {
+        font-size: 25px;
+        color: blueviolet;
+        background-color: aquamarine;
+    }
+    
+    header {
+        background-color: brown;
+    }
+    
+    .slider {
+        background-color: chartreuse;
+    }
+    
+    footer {
+        background-color: blue;
+    }
